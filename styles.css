@@ -81,6 +81,10 @@ section{
     z-index: 2;
 }
 
+.laguage-dropdown-menu li{
+    padding: 0;
+}
+
 .laguage-dropdown:hover .laguage-dropdown-menu{
     display: block;
 }
